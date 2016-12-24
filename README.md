@@ -1,2 +1,10 @@
 # express
-Test Node Js Express Framework
+Install
+
+npm install
+
+npm install nodemon
+
+Start
+
+nodemon app.js
